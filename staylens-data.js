@@ -204,8 +204,8 @@ var FINAL_PROFILES = {
       room_comfort: "Rooms are well proportioned and quiet, with quality bedding, effective climate control, and good natural light. Guests consistently note that the room is a comfortable and restful base.",
       staff: "Staff are warm, proactive, and attentive to detail. They follow up on requests and anticipate needs before guests have to ask. Multiple reviews describe them as the heart of the hotel.",
       breakfast: "Breakfast is outstanding: a curated menu of house-baked goods, seasonal fruit, locally sourced eggs, and specialty coffee. Guests describe it as a reason to stay. Dietary needs are handled with care and creativity.",
-      design: "The interior is bland and dated, with mismatched furniture and a lobby that feels like a waiting area. There is nothing offensive, but nothing memorable either.",
-      dining: "A vending machine and a small coffee station near the lobby are the only evening options. No restaurant, bar, or lounge. Guests looking for dinner or a drink will need to eat out."
+      design: "The interior is clean but generic, with neutral tones and standard furnishings. The lobby is small and functional. It feels like a place to pass through rather than linger in, but nothing is unpleasant.",
+      dining: "A small hotel restaurant serves a limited menu of familiar dishes. The food is adequate but uninspired, and the space is quiet most evenings. Guests looking for a memorable meal tend to eat out."
     }
   },
   bramley: {
@@ -213,8 +213,8 @@ var FINAL_PROFILES = {
     key: "bramley",
     desc: {
       room_comfort: "Rooms are well proportioned and quiet, with quality bedding, effective climate control, and good natural light. Guests consistently note that the room is a comfortable and restful base.",
-      staff: "Staff are present but passive, responding to direct requests without initiative. Check-in is slow, and guests report difficulty getting attention during busy periods.",
-      breakfast: "Breakfast is limited to packaged pastries, instant coffee, and a small fruit bowl. Most guests skip it in favor of nearby cafes. It is clearly not a priority for the hotel.",
+      staff: "Staff are polite but reserved, handling requests competently without going out of their way. Interactions are efficient rather than warm. The service is reliable but not a distinguishing feature of the hotel.",
+      breakfast: "Breakfast is a modest continental spread: coffee, toast, fruit, and a few pastries. It covers the basics without ambition. Guests looking for a proper breakfast tend to explore the neighborhood instead.",
       design: "The hotel is beautifully designed, with a cohesive aesthetic that blends contemporary art, warm textures, and soft lighting. The lobby lounge is a destination in itself, and every corridor and corner feels intentional.",
       dining: "An acclaimed restaurant serves a seasonal tasting menu with creative cocktail pairings. The bar is one of the most atmospheric rooms in the city, with dim lighting, leather seating, and a bartender who is locally famous. Guests describe the evening experience as a highlight of their stay."
     }
